@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239138976783",
+    "project_id": "pill-dispenser-dc56b",
+    "storage_bucket": "pill-dispenser-dc56b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239138976783:android:3514973b7cfc8bcaeb9f7a",
+        "android_client_info": {
+          "package_name": "www.pill_dispenser.com.pill_dispenser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239138976783-ipgttalrlobf0nfhsk7irhvpd3r5c8pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBecNkJMd8flQTFWwrt8VksJ538M2jZ3m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239138976783-ipgttalrlobf0nfhsk7irhvpd3r5c8pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
